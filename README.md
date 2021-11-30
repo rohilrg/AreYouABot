@@ -1,5 +1,5 @@
 # AreYouABot
-A classifier to detect bot that produce fake clicks and leads on website.
+A classifier to detect bots that produces fake clicks and leads on the website.
 
 ## Pre-installation steps:
 - Make sure you have python 3+ installed on your computer.
