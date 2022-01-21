@@ -41,3 +41,6 @@ e. The confusion matrix plots are saved in folder plots/
 
 f. The output of the test set as required is saved in folder  output/test_set_predictions.csv. 
 
+## Results on Validation and Test set:
+
+![Validation-set](https://github.com/rohilrg/AreYouABot/blob/main/plots/confusion_matrix_for_validation_set.png)
